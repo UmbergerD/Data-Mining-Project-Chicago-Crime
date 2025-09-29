@@ -38,7 +38,12 @@ Decision tree model pulled better performance than the Naïve-Bayes. I look at t
 
 <img width="313" height="240" alt="Decision tree" src="https://github.com/user-attachments/assets/7d3274e5-8570-4579-90cd-06a2dcb33644" />
 
+# Next Steps
+1. A better model would be to possibly try more combinations and find out why the data is not pulling better rules or showing better results.
 
+2. Some of the challenges could be the data itself in that it may have some structural challenges since this dataset does have much variety
+
+3. With enough code manipulation, we can have a more accurate prediction of crime in Chicago.
 
 
 
