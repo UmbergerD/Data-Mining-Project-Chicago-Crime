@@ -17,9 +17,16 @@ The purpose of this project is to shed light on the effects of crime and the lik
 3. Also for the predictive modeling, I chose to use the R Naïve Bayes algorithm since this method depends more on probability, so this data worked well in our results.
 
 # Skills:
-R: Apriori Algorithm: network plot, parallel plot
+R: Apriori Algorithm: inspect rules test, network plot, parallel plot
 
 R: Decision tree algorithm: confusion matrix and prediction nodes
 
 R: Naive Bayes algorithm: confusion matrix
 
+# Results and Recommendations
+The three algorithms utilized showed different results:
+
+Apriori algorithm showed poor results with support being low around 37% through testing the three district areas to see if there were association rules but did show higher-end confidence, showing a leaning towards only specific data.
+<img width="840" height="148" alt="image" src="https://github.com/user-attachments/assets/e6673fab-b7ce-4787-aaf9-b31dd7580642" />
+
+Naïve-Bayes tests pulled the following performance results in predicting arrests. They were not as high as I would have hoped but considering the size and variety of the data, this is possible.
