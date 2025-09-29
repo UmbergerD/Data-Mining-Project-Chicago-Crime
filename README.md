@@ -18,6 +18,8 @@ The purpose of this project is to shed light on the effects of crime and the lik
 
 # Skills:
 R: Apriori Algorithm: network plot, parallel plot
+
 R: Decision tree algorithm: prediction nodes
+
 R: Naive Bayes algorithm: confusion matrix
 
