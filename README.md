@@ -1,4 +1,4 @@
-# Data-Mining-Project-Chicago-Crime
+# Data Mining Prediction for Chicago Crime
 # Executive Summary
 My objective was to locate and predict the top four most likely crimes in the city of Chicago to help make arrests more effective by associating data rules. 
 1. Assault, battery, criminal damage, and theft are the top four crimes.
