@@ -29,10 +29,8 @@ The three algorithms utilized showed different results:
 Apriori algorithm showed poor results with support being low around 37% through testing the three district areas to see if there were association rules but did show higher-end confidence, showing a leaning towards only specific data.
 <img width="840" height="148" alt="image" src="https://github.com/user-attachments/assets/e6673fab-b7ce-4787-aaf9-b31dd7580642" />
 
-
 Naïve-Bayes tests pulled the following performance results in predicting arrests. They were not as high as I would have hoped but considering the size and variety of the data, this is possible.
-<img width="500" height="200" alt="Naive Bayes" src="https://github.com/user-attachments/assets/9e7e3029-675f-4d6d-a906-beb3f764add1" />
-
+<img width="537" height="240" alt="Naive Bayes" src="https://github.com/user-attachments/assets/9e7e3029-675f-4d6d-a906-beb3f764add1" />
 
 Decision tree model pulled better performance than the Naïve-Bayes. I look at the error rate being only 11% compared to the 33 and 34%. The false-positive rate is much lower showing the decision tree almost unwilling to make a positive arrest identifier.
 <img width="313" height="240" alt="Decision tree" src="https://github.com/user-attachments/assets/7d3274e5-8570-4579-90cd-06a2dcb33644" />
