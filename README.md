@@ -31,7 +31,7 @@ Apriori algorithm showed poor results with support being low around 37% through 
 
 
 Naïve-Bayes tests pulled the following performance results in predicting arrests. They were not as high as I would have hoped but considering the size and variety of the data, this is possible.
-<img width="537" height="239" alt="Naive Bayes" src="https://github.com/user-attachments/assets/9e7e3029-675f-4d6d-a906-beb3f764add1" />
+<img width="500" height="200" alt="Naive Bayes" src="https://github.com/user-attachments/assets/9e7e3029-675f-4d6d-a906-beb3f764add1" />
 
 
 Decision tree model pulled better performance than the Naïve-Bayes. I look at the error rate being only 11% compared to the 33 and 34%. The false-positive rate is much lower showing the decision tree almost unwilling to make a positive arrest identifier.
