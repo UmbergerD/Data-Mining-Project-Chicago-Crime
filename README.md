@@ -43,7 +43,7 @@ Decision tree model pulled better performance than the Naïve-Bayes. I look at t
 
 2. Some of the challenges could be the data itself in that it may have some structural challenges since this dataset does have much variety
 
-3. With enough code manipulation, we can have a more accurate prediction of crime in Chicago
+3. With enough code manipulation and data wrangling, we can have a more accurate prediction of crime in Chicago
 
 
 
